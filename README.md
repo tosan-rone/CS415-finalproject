@@ -1,7 +1,7 @@
 
 # License Plate Recognition + Interpretation
 
-**By Sarim Qureshi, Tosan Egbesemirone, Daniel Levert, Zak Jamal, Mohammed Akif**
+**By Sarim Qureshi, Tosan Egbesemirone, Daniel Levert, Zak Jamal, & Mohammed Akif**
 
 ## Abstract
 *This project is product-oriented license plate recognition and interpretation program that uses uses concepts such as edge-detection, gray-scaling, cropping, and automation testing (not taught in this class) to produce a solution.*
